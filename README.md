@@ -14,6 +14,8 @@ The project will go through the following steps:
  - Analyze relation to Statistics Sweden's quarterly survey using OLS
  - Add concluding remarks on usability 
  
+ Based on initial results, the project will be complemented with web scraping additional data from other digital job platforms.
+ 
  ## Contact information
  
  Wilhelm Åkesson - wilhelm.akesson@macrobond.com
