@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wilhelmakesson/Measuring_labor_demand/HEAD)
+
 # Measuring labor demand through Job Ads
 
 Labor demand is a difficult thing to measure. Right now, the most common way is to send out surveys to employers asking them what labor skills they need. This project aims to gauge labor demand by downloading job ads from job platforms, and use this as a measure of changes in labor demand. 
